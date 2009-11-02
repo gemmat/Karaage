@@ -1,0 +1,6 @@
+content	  karaage chrome/content/
+overlay   chrome://browser/content/browser.xul chrome://karaage/content/overlay.xul
+resource  karaage  resources/
+skin      karaage  classic/1.0	chrome/skin/classic/
+locale    karaage  en-US       chrome/locale/en-US/
+locale    karaage  ja          chrome/locale/ja/

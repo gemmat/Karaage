@@ -1,0 +1,5 @@
+<!ENTITY Karaage.config.title "KaraageSetting">
+<!ENTITY Karaage.config.pane0 "Pane0">
+<!ENTITY Karaage.config.pane1 "Pane1">
+<!ENTITY Karaage.config.version "Version">
+  <!ENTITY Karaage.config.versionNumber "Karaage Version Counter">

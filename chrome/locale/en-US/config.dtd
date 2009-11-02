@@ -1,0 +1,5 @@
+<!ENTITY Karaage.config.title "Settings for the Karaage Extension">
+<!ENTITY Karaage.config.pane0 "Pane0">
+<!ENTITY Karaage.config.pane1 "Pane1">
+<!ENTITY Karaage.config.version "Version">
+<!ENTITY Karaage.config.versionNumber "Version number of Karaage">
